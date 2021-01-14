@@ -1,0 +1,52 @@
+<!-- **************************************
+Topic  :- HTML Forms and Tables
+Author :- Gautam Khatter
+Date   :- 14 January 2021
+**************************************
+Title  :- Forms Exercise
+************************************** -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>HTML Forms</title>
+</head>
+<body>
+   <h1>Race Registrations</h1>
+   <form action="/gautam">
+      <label for="first">First Name</label>
+      <input type="text" name="firstname" id="first" required>
+      <label for="last">Last Name</label>
+      <input type="text" name="lastname" id="last" required>
+      <p>
+         <input type="radio" id="race1">
+         <label for="race1">Fun Run 5k</label>
+         <br>
+         <input type="radio" id="race2">
+         <label for="race2">Half Marathon</label>
+         <br>
+         <input type="radio" id="race3">
+         <label for="race3">Full Marathon</label>
+      </p>
+      <p>
+         <label for="mail">Email</label>
+         <input type="mail" id="mail" required>
+         <label for="password">Password</label>
+         <input type="password" id="password" required>
+      </p>
+      <p>
+         <label for="age">Select Age Group</label>
+         <select for="age" name="age">
+            <option value="kids">under 18</option>
+            <option value="adults">18-40</option>
+            <option value="old">above 40</option>
+         </select>
+      </p>
+      <button>Register!</button>
+   </form>
+</body>
+</html>
