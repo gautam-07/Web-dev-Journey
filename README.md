@@ -8,19 +8,13 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 </pre>
 
 <pre>
-<h2 align="center">Topics I learned</h2>
-<li>HTML : Both introduction and essentials</li>
-<li>CSS Basics</li>
-<li>CSS Box Model</li>
-<li>CSS Selectors</li>
-<li>CSS - FlexBox</li>
-<li>Pricing Panel Project</li>
-<li>CSS Framework - Bootstrap</li>
-<li>Museum of candy project</li>
-<li>Javascript Basics</li>
-<li>JS - Strings</li>
-<li>JS - Arrays</li>
-<li>JS - Object Literals</li>
-<li>Loops</li>
-<li></li>
+<h2 align="center">My Journey</h2>
+<li>Day 1 - Introduction to Web Development</li>
+<li>Day 1 - HTML: The Essentials</li>
+<li>Day 2 - HTML: Next Steps And Semantics</li>
+<li>Day 3 - HTML: Forms And Tables</li>
+<li>Day 4 - CSS:  The Very Basics</li>
+<li>Day 5 - CSS:  The World Of CSS Selectors</li>
+<li>Day 6 - CSS:  The Very Basics</li>
+
 </pre>
