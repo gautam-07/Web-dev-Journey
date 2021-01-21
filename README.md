@@ -17,5 +17,6 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 5 - CSS:  The World Of CSS Selectors</li>
 <li>Day 6 - CSS:  The CSS Box Model</li>
 <li>Day 7 - CSS:  Other Assorted Useful CSS Properties</li>
+<li>Day 8 - CSS:  Responsive CSS And FlexBox
 
 </pre>
