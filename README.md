@@ -5,9 +5,7 @@
 In this repository I am sharing my web development journey which I learned 
 through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/coltsteele/">Colt Steele</a> on <a href="https://www.udemy.com/">Udemy</a>
 <h4>Course link - </h4><a href="https://www.udemy.com/course/the-web-developer-bootcamp/">https://www.udemy.com/course/the-web-developer-bootcamp/</a>
-</pre>
 
-<pre>
 <h2 align="center">My Journey</h2>
 <li>Day 1  - Introduction to Web Development</li>
 <li>Day 1  - HTML: The Essentials</li>
