@@ -19,5 +19,5 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 7  - CSS:  Other Assorted Useful CSS Properties</li>
 <li>Day 8  - CSS:  Responsive CSS And FlexBox</li>
 <li>Day 9  - CSS:  Pricing Panel Project</li>
-<li>Day 10 - CSS: FrameWorks: Bootstrap</li>
+<li>Day 10 - CSS:  FrameWorks: Bootstrap</li>
 </pre>
