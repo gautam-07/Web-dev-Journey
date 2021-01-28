@@ -11,6 +11,7 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 1  - HTML: The Essentials</li>
 <li>Day 2  - HTML: Next Steps And Semantics</li>
 <li>Day 3  - HTML: Forms And Tables</li>
+
 <li>Day 4  - CSS:  The Very Basics</li>
 <li>Day 5  - CSS:  The World Of CSS Selectors</li>
 <li>Day 6  - CSS:  The CSS Box Model</li>
@@ -18,4 +19,6 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 8  - CSS:  Responsive CSS And FlexBox</li>
 <li>Day 9  - CSS:  Pricing Panel Project</li>
 <li>Day 10 - CSS:  FrameWorks: Bootstrap</li>
+
+<li>Day 11 - Javascript:  Basics</li>
 </pre>
