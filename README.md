@@ -21,4 +21,5 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 10 - CSS:  FrameWorks: Bootstrap</li>
 
 <li>Day 11 - Javascript:  Basics</li>
+<li>Day 13 - Javascript:  Strings And More</li>
 </pre>
