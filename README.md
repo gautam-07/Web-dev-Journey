@@ -26,4 +26,5 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 13 - Javascript:  Strings And More</li>
 <li>Day 14 - Javascript:  Decision Making</li>
 <li>Day 15 - Javascript:  Arrays</li>
+<li>Day 16 - Javascript:  Objects</li>
 </pre>
