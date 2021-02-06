@@ -29,4 +29,6 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 16 - Javascript:  Objects</li>
 <li>Day 17 - Javascript:  Loops</li>
 <li>Day 18 - Javascript:  Functions</li>
+<li>Day 18 - Javascript:  Leveling Up Our Functions</li>
+<li>Day 18 - Javascript:  CallBacks & Array Methods</li>
 </pre>
