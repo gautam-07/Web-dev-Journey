@@ -31,4 +31,5 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 18 - Javascript:  Functions</li>
 <li>Day 19 - Javascript:  Leveling Up Our Functions</li>
 <li>Day 20 - Javascript:  CallBacks & Array Methods</li>
+<li>Day 21 - Javascript:  Newer Javascript Features</li>
 </pre>
