@@ -34,5 +34,4 @@ through "The Web Developer Bootcamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 21 - Javascript:  Newer Javascript Features</li>
 
 
-<li>Day 22 - DOM:  Introduction To The World Of The DOM</li>
 </pre>
