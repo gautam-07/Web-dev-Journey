@@ -36,4 +36,5 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 
 <li>Day 22 - DOM: Introducing the world of the DOM</li>
 <li>Day 23 - DOM: The Missing Piece: Events</li>
+<li>Day 24 - DOM: Score Keeper</li>
 </pre>
