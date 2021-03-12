@@ -1,6 +1,6 @@
 <h2 align="center">H o l a &nbsp; A m i g o s <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 
-<pre>
+
 <h1 align="center"><a href="https://en.wikipedia.org/wiki/Web_development">Web Development</a></h1>
 In this repository I am sharing my web development journey which I learned 
 through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/coltsteele/">Colt Steele</a> on <a href="https://www.udemy.com/">Udemy</a>
@@ -40,4 +40,3 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 
 
 <li>Day 25 - Async: Javascript</li>
-</pre>
