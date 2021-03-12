@@ -5,6 +5,7 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 <h4>Course link - </h4><a href="https://www.udemy.com/course/the-web-developer-bootcamp/">https://www.udemy.com/course/the-web-developer-bootcamp/</a>
 
 <h2 align="center">My Journey</h2>
+
 <pre>
 <li>Day 1  - Introduction to Web Development</li>
 <li>Day 1  - HTML: The Essentials</li>
