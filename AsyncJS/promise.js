@@ -56,6 +56,27 @@ fakeRequestPromise('yelp.com/api/coffee/page1')
    })
 
 
+
+
+
+
+   
 // Another way of writing promises with less nesting
 
+fakeRequestPromise('yelp.com/api/coffee/page1')
+   .then(() => {
+      console.log("It worked... (page 1)");
+      return fakeRequestPromise('yelp.com/api/coffee/page2')
+   })
+   .then(() => {
+      console.log("It worked... (page 2)");
+      return fakeRequestPromise('yelp.com/api/coffee/page3')
+   })
+   .then(() => {
+      console.log("It worked... (page 3)");
+   })
+   // we can use a single catch for all of these
+   .catch(() => {
+      console.log("Ohh...no, request failed");
+   })
 
