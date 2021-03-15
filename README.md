@@ -40,5 +40,6 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 
 
 <li>Day 25 - Async: Javascript</li>
-<li>Day 25 - AJAX and API</li>
+<li>Day 26 - AJAX and API</li>
+<li>Day 27 - Prototypes, Classes and OOP</li>
 </pre>
