@@ -42,4 +42,7 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 25 - Async: Javascript</li>
 <li>Day 26 - AJAX and API</li>
 <li>Day 27 - Prototypes, Classes and OOP</li>
+<li>Day 28 - Mastering The Terminal</li>
+<li>Day 29 - First Brush with Node</li>
+<li>Day 30 - Exploring Modules and the NPM universe</li>
 </pre>
