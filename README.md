@@ -46,4 +46,5 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 29 - First Brush with Node</li>
 <li>Day 30 - Exploring Modules and the NPM universe</li>
 <li>Day 31 - Creating Servers with Express</li>
+<li>Day 32 - Creating Dynamic HTML With Templating</li>
 </pre>
