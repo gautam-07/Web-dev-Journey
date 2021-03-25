@@ -7,12 +7,15 @@ const redditdata = require('./data.json')
 // path built-in in express
 const path = require('path');
 
+// Serving static files in express. To have CSS files for eg
+app.use(express.static(path.join(__dirname, 'public')))
+
 
 // Now to tell our app to use EJS there is particular method in app called set() and it takes two parameters: 1. The key that we wanna set
 //          2. And the corresponding value
-
-
 app.set('view engine', 'ejs');
+
+
 
 // If we wanna run the code from anywhere then we have to change the views directory
 app.set('views', path.join(__dirname, '/views'))
