@@ -50,5 +50,6 @@ through "The Web Developer BootCamp" by <a href="https://www.udemy.com/user/colt
 <li>Day 33 - Defining RESTful Routes</li>
 
 
-<li>Day  - Our First Database - MongoDB</li>
+<li>Day 34  - Our First Database - MongoDB</li>
+<li>Day 35  - Connecting  With Mongoose - MongoDB</li>
 </pre>
